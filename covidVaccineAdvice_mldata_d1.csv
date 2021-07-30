@@ -598,13 +598,13 @@
 597;I think this is a good idea to get back to normal life;Positive
 598;the vaccine for me is very important let us get vaccinated ;Positive
 599;It makes no difference whether I am vaccinated or not;Neutral
-600;Vaccines are useful but they need to be tested long enough before using them on a large population.;Neutral
+600;Vaccines are useful but they need to be tested long enough before using them on a large population.;Positive
 601;Neutral;Neutral
-602;Yes;Neutral
-603;I do not like the vaccin.;Neutral
+602;Yes;Positive
+603;I do not like the vaccin.;negative
 604;I would never get vaccinated. If it is not an Obligation;Negative
-605;The problem with the vaccines is that it does not assure us 100% that it shall not have secondary effects in future ;Neutral
-606;I do not really know which one to choose because there are enough;Neutral
+605;The problem with the vaccines is that it does not assure us 100% that it shall not have secondary effects in future ;Negative
+606;I do not really know which one to choose because there are enough;Positive
 607;bad caign for bad injection;Negative
 608;i am total for a vaccine. For everybody my friend. That can rate us.;Positive
 609;Positive;Positive
